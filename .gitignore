@@ -13,3 +13,6 @@ hs_err_pid*
 SpringGuru/.idea/.name
 SpringGuru/.idea/
 SpringGuru/.mvn/
+SpringGuru/target/
+
+*.iml
